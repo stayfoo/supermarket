@@ -1,2 +1,10 @@
-# supermarket
-supermarket 项目是一套超市售卖系统，包括前台商城系统及后台管理系统，基于golang实现。 
+### supermarket
+
+### 前言
+supermarket 项目致力于打造一套完整的社区团购项目，基于golang实现。 
+
+### 项目介绍
+supermarket 项目致力于打造一套完整的社区团购项目，基于golang实现。
+
+
+
